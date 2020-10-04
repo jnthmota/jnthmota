@@ -19,6 +19,9 @@
   📍Living in  <b>Brazil</b> 🇧🇷, <b>São Paulo</b>.
 </h5>
 
+
+ | [<img src="https://github.com/jnthmota/jnthmota/issues/2#issue-714353009" alt="Twitter Logo" width="32">](https://twitter.com/jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/3#issue-714353190" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/6#issue-714354953" alt="Dev Logo" width="32">](https://dev.to/jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/4#issue-714353305" alt="Medium Logo" width="32">](https://medium.com/@jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/5#issue-714353374" alt="Instagram Logo" width="32">](https://www.instagram.com/jnthmota/)
+
 <!--
 **Jhow-Ms/Jhow-Ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
