@@ -16,7 +16,7 @@
   I'm a bachelor in Computer Science
 </p>
 <h5 align="left">
-  📍  Living in <b>Brazil</b> 🇧🇷, <b>São Paulo</b>.
+  📍Living in  <b>Brazil</b> 🇧🇷, <b>São Paulo</b>.
 </h5>
 
 <!--
