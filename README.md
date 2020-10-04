@@ -20,7 +20,7 @@
 </h5>
 
 
- | [<img src="https://github.com/jnthmota/jnthmota/issues/2#issue-714353009" alt="Twitter Logo" width="32">](https://twitter.com/jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/3#issue-714353190" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/6#issue-714354953" alt="Dev Logo" width="32">](https://dev.to/jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/4#issue-714353305" alt="Medium Logo" width="32">](https://medium.com/@jnthmota/)  | [<img src="https://github.com/jnthmota/jnthmota/issues/5#issue-714353374" alt="Instagram Logo" width="32">](https://www.instagram.com/jnthmota/)
+ | [<img src="https://user-images.githubusercontent.com/21012174/95021443-66ad2500-0647-11eb-92e5-0be13d191413.png" alt="Twitter Logo" width="32">](https://twitter.com/jnthmota/)  | [<img src="https://user-images.githubusercontent.com/21012174/95021476-96f4c380-0647-11eb-8a74-21cadc9e8ad6.png" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/jnthmota/)  | [<img src="https://user-images.githubusercontent.com/21012174/95021693-f0a9bd80-0648-11eb-8a3e-4259850d4029.png" alt="Dev Logo" width="32">](https://dev.to/jnthmota/)  | [<img src="https://user-images.githubusercontent.com/21012174/95021491-abd15700-0647-11eb-9495-898ab6745f82.png" alt="Medium Logo" width="32">](https://medium.com/@jnthmota/)  | [<img src="https://user-images.githubusercontent.com/21012174/95021512-bd1a6380-0647-11eb-84cd-e9f454e62174.png" alt="Instagram Logo" width="32">](https://www.instagram.com/jnthmota/)
 
 <!--
 **Jhow-Ms/Jhow-Ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
