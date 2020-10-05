@@ -9,7 +9,6 @@
 </table>
 </center>
 <br />
-<br />
 <h4 align="left">
   Hello there, I'm Jonathan Mota 👨🏽‍💻
 </h4>
@@ -19,8 +18,6 @@
 <h5 align="left">
   📍Living in  <b>Brazil</b> 🇧🇷, <b>São Paulo</b>.
 </h5>
-
-<br />
 
 <center><p><b>Social Media</b><p></center>
 
