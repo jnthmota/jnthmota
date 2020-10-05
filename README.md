@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jnthmota&style=plastic&color=yellow)
-![github](https://user-images.githubusercontent.com/21012174/94233709-b3be2800-fede-11ea-8ab5-9791ccb772f1.jpg)
+![githubNEW](https://user-images.githubusercontent.com/21012174/95126451-e7921c80-072c-11eb-943a-d6e8fac4a010.jpg)
 <center>
 <table>
   <tr>
