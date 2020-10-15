@@ -13,8 +13,8 @@
   Hello there, I'm Jonathan Mota 👨🏽‍💻
 </h4>
 <p align="left">
-  I'm a bachelor in Computer Science <br />
-    USJT - Universidade São Judas Tadeu
+ <i class="fa fa-graduation-cap" aria-hidden="true"></i> I'm a bachelor in Computer Science <br />
+
 </p>
 <h5 align="left">
   📍Living in  <b>Brazil</b> , <b>São Paulo</b>.
