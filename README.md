@@ -13,9 +13,9 @@
   Hello there, I'm Jonathan Mota 👨🏽‍💻
 </h4>
 <p align="left">
- <i class="fa fa-graduation-cap" aria-hidden="true"></i> I'm a bachelor in Computer Science <br />
-
+ I'm a bachelor in Computer Science <br />
 </p>
+
 <h5 align="left">
   📍Living in  <b>Brazil</b> , <b>São Paulo</b>.
 </h5>
