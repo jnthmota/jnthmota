@@ -14,6 +14,7 @@
 </h4>
 <p align="left">
  I'm a bachelor in Computer Science <br />
+  Currently learning Go
 </p>
 
 <h5 align="left">
