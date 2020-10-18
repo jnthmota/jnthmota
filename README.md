@@ -16,7 +16,6 @@
  I'm a bachelor in Computer Science <br />
   Currently learning Go
 </p>
-<br />
 <h5 align="left">
    <b>Skills & Technologies</b>
 </h5>
