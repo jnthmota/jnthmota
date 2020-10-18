@@ -21,9 +21,6 @@
    <b>Skills & Technologies</b>
 </h5>
 
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
-
 <br/>
 <h5 align="left">
   📍Living in  <b>Brazil</b> , <b>São Paulo</b>.
