@@ -14,8 +14,11 @@
 </h4>
 <p align="left">
  I'm a bachelor in Computer Science <br />
-  Currently learning Go
+  Currently learning
 </p>
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+
 <h4 align="left">
    <b>Skills & Technologies</b>
 </h4>
