@@ -38,10 +38,11 @@
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
-<br/>
+
 <h5 align="left">
   📍Living in  <b>Brazil</b> , <b>São Paulo</b>.
 </h5>
+
 
 <center><p><b>Social Media</b><p></center>
 
