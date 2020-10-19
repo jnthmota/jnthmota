@@ -14,10 +14,7 @@
 </h4>
 <p align="left">
  I'm a bachelor in Computer Science <br />
-  Currently learning
 </p>
-
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 <h4 align="left">
    <b>Skills & Technologies</b>
@@ -35,6 +32,10 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
+
+<h5><b>Currently learning</b></5>
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 <br/>
 <h5 align="left">
