@@ -38,6 +38,8 @@
 <h5><b>Currently learning</b></5>
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+
 
 
 <h5 align="left">
