@@ -34,7 +34,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Apple](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
-
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
 
 <h5><b>Currently learning</b></5>
