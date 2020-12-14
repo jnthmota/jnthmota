@@ -37,9 +37,9 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
 
-<h5><b>Currently learning</b></5>
+<!--<h5><b>Currently learning</b></5>
 
-I am currently specializing in the area of Big Data & Analytics
+<!-- I am currently specializing in the area of Big Data & Analytics -->
 
 <!--![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
