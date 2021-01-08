@@ -16,7 +16,6 @@
  I'm a bachelor in Computer Science <br />
 </p>
 
-
 <h4 align="left">
    <b>Skills & Technologies</b>
 </h4>
