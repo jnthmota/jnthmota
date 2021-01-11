@@ -13,7 +13,9 @@
   Hello there, I'm Jonathan Mota 👨🏽‍💻
 </h4>
 <p align="left">
- I'm a bachelor in Computer Science <br />
+ I'm a bachelor in Computer Science
+ <br />
+  Data Engineer Trainee - Big Data & Analytics 👨🏽‍💻
 </p>
 
 <h4 align="left">
