@@ -38,7 +38,7 @@
 ![Apple](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
-<!--<h5><b>Currently learning</b></5>
+<h5><b>Currently learning</b></5>
 
 <!-- I am currently specializing in the area of Big Data & Analytics -->
 
