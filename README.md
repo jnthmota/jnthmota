@@ -39,6 +39,7 @@
 
 <h5><b>Currently learning</b></5>
 
+![Azure](https://img.shields.io/badge/-MicrosoftAzure-0089D6?style=flat-square&logo=MicrosoftAzure&logoColor=white)
 
 
 <!-- I am currently specializing in the area of Big Data & Analytics -->
