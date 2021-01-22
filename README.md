@@ -37,9 +37,10 @@
 ![Apple](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
+
 <h5><b>Currently learning</b></5>
 
-![MicrosoftAzure](https://img.shields.io/badge/-Microsoft-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
+![MicrosoftAzure](https://img.shields.io/badge/-MicrosoftAzure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)
 
 
 <!-- I am currently specializing in the area of Big Data & Analytics -->
