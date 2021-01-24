@@ -30,9 +30,12 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645805-d6efe880-5e7a-11eb-8a2b-5dde40b0bed6.png" alt="MySQL"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645809-d8b9ac00-5e7a-11eb-87ae-bfd21379baa3.png" alt="Python"/></code>
 
+**DevOps**
+
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646086-a315c280-5e7c-11eb-81d9-bb0519947fb8.png" alt="Github"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646090-a6a94980-5e7c-11eb-8392-e12a69266a0c.png" alt="Git"/></code>
+
 <!--
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
