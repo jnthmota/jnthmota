@@ -33,9 +33,14 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645809-d8b9ac00-5e7a-11eb-87ae-bfd21379baa3.png" alt="Python"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646478-f9840080-5e7e-11eb-8e26-a7be1a6f1eb6.png" alt="VSCode"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646482-fc7ef100-5e7e-11eb-94d7-d43de3e6aaae.png" alt="AWS"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646485-00127800-5e7f-11eb-90c9-01abb6146f65.png" alt="Illustrator"/></code>
+
 
 <br/>
+
+**Utilities**
+
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646485-00127800-5e7f-11eb-90c9-01abb6146f65.png" alt="Illustrator"/></code>
+
 
 **DevOps**
 
