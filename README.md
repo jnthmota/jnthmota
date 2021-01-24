@@ -35,7 +35,6 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646482-fc7ef100-5e7e-11eb-94d7-d43de3e6aaae.png" alt="AWS"/></code>
 
 
-<br/>
 
 **Utilities**
 
