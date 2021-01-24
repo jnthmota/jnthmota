@@ -18,6 +18,8 @@
   Data Engineer Trainee - Big Data & Analytics 👨🏽‍💻
 </p>
 
+<br/><br/>
+
 ## Skills & Technologies
 
 **Application and Data**
