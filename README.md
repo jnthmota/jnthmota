@@ -31,7 +31,9 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645795-c93a6300-5e7a-11eb-8d23-afff89876975.png" alt="VBA"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645805-d6efe880-5e7a-11eb-8a2b-5dde40b0bed6.png" alt="MySQL"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645809-d8b9ac00-5e7a-11eb-87ae-bfd21379baa3.png" alt="Python"/></code>
+
 <br/>
+
 **DevOps**
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646086-a315c280-5e7c-11eb-81d9-bb0519947fb8.png" alt="Github"/></code>
