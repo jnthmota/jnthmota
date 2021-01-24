@@ -22,14 +22,15 @@
 
 **Application and Data**
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-
-
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645802-d3f4f800-5e7a-11eb-844d-2a15ac0eae2b.png" alt="Javascript"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645799-cfc8da80-5e7a-11eb-8e40-498ef129dd8c.png" alt="CSS"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645800-d1929e00-5e7a-11eb-8563-28fc75b5ab6a.png" alt="HTML5"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645796-ca6b9000-5e7a-11eb-9989-54eab04744e5.png" alt="Angular"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645795-c93a6300-5e7a-11eb-8d23-afff89876975.png" alt="VBA"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645805-d6efe880-5e7a-11eb-8a2b-5dde40b0bed6.png" alt="MySQL"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645809-d8b9ac00-5e7a-11eb-87ae-bfd21379baa3.png" alt="Python"/></code>
 
 <!--
-
-
-
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -43,7 +44,7 @@
 
 **Application and Data**
 
-
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645798-cc355380-5e7a-11eb-9905-d28dec70bf80.png" alt="Microsoft-Azure"/></code>
 
 <!-- I am currently specializing in the area of Big Data & Analytics -->
 
