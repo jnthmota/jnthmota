@@ -38,7 +38,6 @@
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646086-a315c280-5e7c-11eb-81d9-bb0519947fb8.png" alt="Github"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646090-a6a94980-5e7c-11eb-8392-e12a69266a0c.png" alt="Git"/></code>
-<br/>
 <!--
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -46,6 +45,8 @@
 ![Apple](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 -->
+
+<br/>
 
 ## Currently learning
 
