@@ -40,26 +40,22 @@
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646485-00127800-5e7f-11eb-90c9-01abb6146f65.png" alt="Illustrator"/></code>
 
-
 **DevOps**
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646086-a315c280-5e7c-11eb-81d9-bb0519947fb8.png" alt="Github"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646090-a6a94980-5e7c-11eb-8392-e12a69266a0c.png" alt="Git"/></code>
-<!--
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Apple](https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
--->
+
+**Business Tools**
+
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656446-fc8fe880-5ea0-11eb-9d7b-69e813a6f67b.png" alt="Slack"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656446-fc8fe880-5ea0-11eb-9d7b-69e813a6f67b.png" alt="Notion"/></code>
 
 <br/>
 
 ## Currently learning
 
-**Application and Data**
-
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645798-cc355380-5e7a-11eb-9905-d28dec70bf80.png" alt="Microsoft-Azure"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656449-fef24280-5ea0-11eb-94a5-77aefbce0131.png" alt="Docker"/></code>
 
 <!-- I am currently specializing in the area of Big Data & Analytics -->
 
