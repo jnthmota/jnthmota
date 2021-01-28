@@ -59,6 +59,8 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645798-cc355380-5e7a-11eb-9905-d28dec70bf80.png" alt="Microsoft-Azure"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656444-fac62500-5ea0-11eb-88ff-1699e3e5026a.png" alt="Docker"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105933578-748b1980-602d-11eb-8b07-a59fa7be442b.png" alt="pySpark"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105933578-748b1980-602d-11eb-8b07-a59fa7be442b.png" alt="DataFactory"/></code>
+
 
 
 <!-- I am currently specializing in the area of Big Data & Analytics -->
