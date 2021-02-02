@@ -61,14 +61,6 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/106218546-3ec56c80-61b6-11eb-90b4-31e5a69f30d8.jpg" alt="DataFactory"/></code>
 
 
-
-<!-- I am currently specializing in the area of Big Data & Analytics -->
-
-<!--![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) -->
-
-
 <br/>
 <br/>
 <center><p><b>Social Media</b><p></center>
