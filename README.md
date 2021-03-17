@@ -3,12 +3,12 @@
 <center>
 <table>
   <tr>
-      <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnthmota&hide=html&langs_count=09&layout=compact&theme=onedark" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jnthmota&theme=onedark&show_icons=true&count_private=true" /></td>
+      <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnthmota&langs_count=09&layout=compact&theme=onedark" /></td>
+      <td><img width="498px" align="left" src="https://github-readme-stats.vercel.app/api?username=jnthmota&theme=onedark&show_icons=true&count_private=true" /></td>
   </tr>   
 </table>
 </center>
-<br />
+<br /> <!-- &hide=html -->
 <h4 align="left">
   Hello there, I'm Jonathan Mota 👨🏽‍💻
 </h4>
