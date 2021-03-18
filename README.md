@@ -9,7 +9,7 @@
 </table>
   <table>
       <tr>
-        <td><img src="https://github-profile-trophy.vercel.app/?username=jnthmota&theme=onedark&margin-w=53&no-frame=true" alt="jnthmota points"/> </td>
+        <td><img src="https://github-profile-trophy.vercel.app/?username=jnthmota&theme=onedark&margin-w=53" alt="jnthmota points"/> </td>
       </tr>
   </table>
 </center>
