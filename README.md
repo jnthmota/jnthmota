@@ -62,6 +62,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645798-cc355380-5e7a-11eb-9905-d28dec70bf80.png" alt="Microsoft-Azure"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/111893927-4a2e5a80-89e5-11eb-8457-ad7a510f9e17.png" alt="Google-Cloud"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656444-fac62500-5ea0-11eb-88ff-1699e3e5026a.png" alt="Docker"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/111894225-d3469100-89e7-11eb-90fb-df24bfe949b5.png" alt="Kubernetes"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105933578-748b1980-602d-11eb-8b07-a59fa7be442b.png" alt="pySpark"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/111847656-030e6f80-88e8-11eb-82d6-b89e4f4593d4.png" alt="Kafka"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/111847651-0144ac00-88e8-11eb-83f7-25777f67e52c.png" alt="Kafka"/></code>
