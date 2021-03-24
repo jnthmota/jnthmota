@@ -66,7 +66,7 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/112342068-b5f01c00-8ca0-11eb-8afa-722e5f55fb26.png" alt="Apache-Spark"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105933578-748b1980-602d-11eb-8b07-a59fa7be442b.png" alt="pySpark"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/111847656-030e6f80-88e8-11eb-82d6-b89e4f4593d4.png" alt="Kafka"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/111847651-0144ac00-88e8-11eb-83f7-25777f67e52c.png" alt="Kafka"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/112342576-197a4980-8ca1-11eb-9caa-6990c85d63a9.png" alt="Kafka"/></code>
 
 
 <br/>
