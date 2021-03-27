@@ -20,7 +20,7 @@
 <p align="left">
  I'm a bachelor in Computer Science
  <br />
-  Data Engineer Trainee - Big Data & Analytics 👨🏽‍💻
+  Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, Google Cloud Platform, Microsoft Azure  👨🏽‍💻
 </p>
 
 <br/><br/>
