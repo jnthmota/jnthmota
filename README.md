@@ -15,11 +15,12 @@
 </center>
 <br /> <!-- &hide=html -->
 <h4 align="left">
-  Hello there, I'm Jonathan Mota 👨🏽‍💻
+  Hello there, I'm Jonathan Mota 
 </h4>
 <p align="left">
- Computer Science
- <br />
+ Computer Science👨🏽‍💻
+ <br/>
+  
   Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, Google Cloud Platform, Microsoft Azure  👨🏽‍💻
 </p>
 
