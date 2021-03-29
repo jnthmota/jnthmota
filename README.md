@@ -20,7 +20,6 @@
 <p align="left">
  Computer Science👨🏽‍💻</p>
  <br/>
- 
   <p>Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, Google Cloud Platform, Microsoft Azure </p>
      
 <br/>
