@@ -18,11 +18,15 @@
   Hello there, I'm Jonathan Mota 
 </h4>
 <p align="left">
- Computer Science👨🏽‍💻
+ Computer Science👨🏽‍💻</p>
  <br/>
-  
-  Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, Google Cloud Platform, Microsoft Azure  👨🏽‍💻
-</p>
+  <center>
+  <table>
+   <tr>
+  <p>Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, Google Cloud Platform, Microsoft Azure </p>
+  </tr>
+  </table>
+  </center>
 
 <br/><br/>
 
