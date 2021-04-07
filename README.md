@@ -45,6 +45,7 @@
 **DevOps**
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646086-a315c280-5e7c-11eb-81d9-bb0519947fb8.png" alt="Github"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/113879804-47778780-9791-11eb-8123-b6b91f87f219.png" alt="Gitlab"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646090-a6a94980-5e7c-11eb-8392-e12a69266a0c.png" alt="Git"/></code>
 
 **Business Tools**
