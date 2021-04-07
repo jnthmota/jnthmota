@@ -51,6 +51,7 @@
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656446-fc8fe880-5ea0-11eb-9d7b-69e813a6f67b.png" alt="Slack"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/113344608-aeb3b880-9307-11eb-931b-70b7e5bac4fd.png" alt="Trello"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/113876630-4b55da80-978e-11eb-8ff6-325ad5eadea2.png" alt="Jira-Software"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656449-fef24280-5ea0-11eb-94a5-77aefbce0131.png" alt="Notion"/></code>
 
 
