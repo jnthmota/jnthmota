@@ -13,7 +13,7 @@
       </tr>
   </table>
 </center>
-<br /> <!-- &hide=html &include_all_commits=true-->
+<br /> <!-- &hide=html-->
 <h4 align="left">
   Hello there, I'm Jonathan Mota 
 </h4>
