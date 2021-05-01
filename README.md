@@ -19,7 +19,7 @@
 </h4>
 <p align="left">
  <li>B.S in Computer Science 👨🏽‍💻</li>
- <li>MBA in Data Engineer</li> </p>
+ <li>MBA in Data Engineer 2021-2022</li> </p>
  <br/>
   <p>Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, BigQuery,  Google Cloud Platform, Microsoft Azure </p>
      
