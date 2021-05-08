@@ -93,7 +93,7 @@
   <center>
   <table>
       <tr>
-        <a href="https://www.buymeacoffee.com/jnthmota"><img height="42" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jnthmota&button_colour=a46637&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" alt="jnthmota"></a>
+        <a href="https://www.buymeacoffee.com/jnthmota"><img height="42" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=jnthmota&button_colour=a46637&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" alt="jnthmota"></a>
       </tr>
   </table>
   </center>
