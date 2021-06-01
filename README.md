@@ -14,6 +14,14 @@
   </table>
 </center>
 <br /> <!-- &hide=html-->
+  <table>
+      <tr>
+         ![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
+      </tr>
+  </table>
+</center>
+<br /> <!-- &hide=html-->
+
 <h4 align="left">
   Hello there, I'm Jonathan Mota 
 </h4>
