@@ -15,6 +15,9 @@
 </center>
 <br /> <!-- &hide=html-->
 <br /> <!-- &hide=html-->
+
+![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
+
 <h4 align="left">
   Hello there, I'm Jonathan Mota 
 </h4>
@@ -25,6 +28,7 @@
   <p>Data Engineer Working on projects in the Big Data area, using current technologies PySpark, Apache Spark, Apache Kafka, Azure DataFactory, Databricks, BigQuery,  Google Cloud Platform, Microsoft Azure </p>
      
 <br/>
+
 
 ## Skills & Technologies
 
@@ -100,4 +104,4 @@
   </center>
 
 
-![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
+
