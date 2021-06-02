@@ -16,7 +16,7 @@
 <br /> <!-- &hide=html-->
 <br /> <!-- &hide=html-->
 
-![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.gif)
 
 <h4 align="left">
   Hello there, I'm Jonathan Mota 
