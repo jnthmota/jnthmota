@@ -16,7 +16,6 @@
 <br /> <!-- &hide=html-->
 <br /> <!-- &hide=html-->
 <!--![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.gif)-->
-
 ![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
 
 <h4 align="left">
