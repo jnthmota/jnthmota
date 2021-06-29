@@ -30,7 +30,6 @@
      
 <br/>
 
-
 ## Skills & Technologies
 
 **Application and Data**
